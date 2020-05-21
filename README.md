@@ -1,3 +1,3 @@
-# Global Admin Binary Module
+# Garry's Mod CSharp Addon
 
-Global administrating system as Lua binary module for Garry's Mod
+Adding support for CSharp to Garry's Mod
