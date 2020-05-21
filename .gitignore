@@ -1,0 +1,10 @@
+/projects/.vs
+/projects/.suo
+/projects/Debug
+/projects/project.VC.db
+/projects/*.vcxproj.user
+/projects/*.DotSettings.user
+/projects/**/obj/
+/projects/**/bin/
+/output
+/buildstage
